@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Alo Alo
+      text: NguyenNhatTruong
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Ảo hóa - Điện toán đám mây
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Alo alo 1 2 3 4
     actions:
       - label: Get started
         altText: ''
@@ -37,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Pla pla
       color: text-primary
       type: Badge
     elementId: ''
