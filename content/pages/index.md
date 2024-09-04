@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: NguyenNhatTruong
+      text: NhatTruong
       color: text-dark
       type: TitleBlock
     subtitle: Ảo hóa - Điện toán đám mây
